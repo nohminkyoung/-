@@ -3,7 +3,6 @@
 
 ## 주제 : 데이콘 주차수요 예측 AI 경진대회(머신러닝을 이용한 아파트단지 주차수요예측)
 - url : https://dacon.io/competitions/official/235745/overview/description
-- ![image](https://user-images.githubusercontent.com/111229365/194765399-e443359c-8aa0-45e2-b384-b379d665142e.png)
 
 ### 진행순서 
 1. 문제유형 파악 및 평가지표 선정(수치예측/MAE사용-데이콘 측 평가규칙)
