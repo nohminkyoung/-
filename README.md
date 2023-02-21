@@ -1,5 +1,6 @@
 # Bootcamp 2차 mini project
 팀원 3명
+tem_github : https://github.com/kkkkyoung/parking_project
 
 ## 주제 : 데이콘 주차수요 예측 AI 경진대회(머신러닝을 이용한 아파트단지 주차수요예측)
 - url : https://dacon.io/competitions/official/235745/overview/description
