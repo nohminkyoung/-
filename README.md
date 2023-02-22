@@ -1,4 +1,4 @@
-# Bootcamp 2차 mini project
+
 팀원 3명
 tem_github : https://github.com/kkkkyoung/parking_project
 
